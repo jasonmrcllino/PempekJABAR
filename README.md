@@ -11,7 +11,7 @@
 ### 2. Install Aplikasi
 - Jalankan file `PempekJabar.MSI`
 - Ikuti petunjuk instalasi hingga selesai
-- Aplikasi akan terpasang di komputer Anda
+- Aplikasi akan terpasang di komputer Anda dengan nama `PempekJabar.exe`
 
 ### 3. Setup Database
 - Buka aplikasi **XAMPP** atau **MySQL Server**
